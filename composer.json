@@ -1,1 +1,11 @@
-‘{}’
+{
+    "name": "marlon/jikan",
+    "description": "A anime app using the Jikan API!",
+    "authors": [
+        {
+            "name": "mar-jac",
+            "email": "mar.jacq0296@gmail.com"
+        }
+    ],
+    "require": {}
+}
